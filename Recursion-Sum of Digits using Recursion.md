@@ -1,4 +1,4 @@
-# #  Recursion:Sum of Digits using Recursion in Python
+# 7)c) Recursion:Sum of Digits using Recursion in Python
 
 ##  AIM:
 To write a Python program to calculate the **sum of all digits** in a number using **recursion**.
